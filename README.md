@@ -1,0 +1,1 @@
+Juego de pista de carro, donde exiten aficionados fuera de la pista y el carro que se conduce se mueve con las teclas de arriba y abajo, además rota con derecha e izquierda, se implementó la función de turbo con la tecla espacio.
